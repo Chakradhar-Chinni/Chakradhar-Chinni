@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chakradhar-Chinni
+- 👋 Hi, I’m Chakradhar Chinni
 - I'm a pre-final a year student 
 - 👀 I’m interested in Networking and Java Full Stack Development
 - 🌱 I’m currently working on Django and Chrome Extensions
