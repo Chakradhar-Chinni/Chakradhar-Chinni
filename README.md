@@ -3,7 +3,7 @@
 - 👀 I’m interested in Networking and Java Full Stack Development
 - 🌱 I’m currently working on Django and Chrome Extensions
 - 💞️ I’m currently working as a TCW intern at geeksforgeeks
-- 📫 Let's connect on www.linkedin.com/in/chakradharchinni
+- 📫 Let's connect on linkedin.com/in/chakradharchinni
 - Talk to me at : chakradharcse872@gmail.com
 - Have a look at my medium : chakradhar-chinni.medium.com
 <!---
