@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chakradhar Chinni
-- I'm a pre-final a year student 
+- I'm a final a year student 
 - 👀 I’m interested in Networking and Java Full Stack Development
 - 🌱 I’m currently working on Java Full Stack Development
 - 💞️ I’m currently working as a TCW intern at geeksforgeeks
