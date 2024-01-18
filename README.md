@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/chakradhar872" target="blank"><img src="https://img.shields.io/twitter/follow/chakradhar872?logo=twitter&style=for-the-badge" alt="chakradhar872" /></a> </p>
 
-- 🔭 I’m currently working on **Java Full Stack Development**
+- 🔭 I’m currently working on **developing Automated Solutions**
 
-- 🌱 I’m currently learning **Spring IO**
+- 🌱 I’m currently learning **C#**
+ 
+- 🌱 I’m currently preparing for **AWS Certification**
 
-- 🤝 I’m looking for help with **Mastering DSA**
+- 💬 Ask me about **Technical Writing, DSA**
 
-- 📝 I regularly write articles on [chakradhar-chinni.medium.com](chakradhar-chinni.medium.com)
-
-- 💬 Ask me about **Freelance Writing, Java, DSA**
-
-- 📫 How to reach me **chakradharcse872@gmail.com**
+- 📫 Let's connect at **chakradharcse872@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
