@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chakradhar872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chakradhar872" height="30" width="40" /></a>
+<a href="https://twitter.com/chakradhar872" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chakradhar872" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chakradharchinni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chakradharchinni" height="30" width="40" /></a>
 <a href="https://medium.com/@chakradhar-chinni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chakradhar-chinni" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chakradhar chinni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chakradhar chinni" height="30" width="40" /></a>
